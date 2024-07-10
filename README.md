@@ -1,6 +1,6 @@
 ### Quiz System
 
-This repository contains a simple Python quiz game application that allows users to play quizzes, manage quiz questions, create accounts, and more. It's designed to be interactive and educational, suitable for learning Python basics through quizzes.
+This repository contains a simple Python quiz application that allows users to play quizzes, manage quiz questions, create accounts, and more. It's designed to be interactive and educational, suitable for learning Python basics through quizzes.
 
 ### Features:
 - **Quiz Playing:** Randomly selects and presents quiz questions with multiple-choice answers.
@@ -16,7 +16,7 @@ This repository contains a simple Python quiz game application that allows users
 
 2. **Navigate to the Directory:**
    ```bash
-   cd python-quiz-game
+   cd python-quiz-system
    ```
 
 3. **Run the Application:**
